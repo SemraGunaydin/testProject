@@ -1,3 +1,3 @@
-print(222)
-print(123)
-print(555)
+print(111)
+print(2222)
+print(1)
